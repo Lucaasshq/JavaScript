@@ -1,5 +1,7 @@
-function ola(nome) {
-    console.log('Boa noite, ' + nome);
+function ola(nome = "Lucas") {
+    return 'Boa noite, ' + nome;
 }
 
-ola("Lucas");
+var comprimento = ola();
+
+console.log(comprimento);
