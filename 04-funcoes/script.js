@@ -10,10 +10,28 @@
 ////////////////////////////////
 
 
-const eu = {
-  nome: 'Lucas',
-  idade: 21,
-   t() {
-    return this
-  }
-}
+// const eu = {
+//   nome: 'Lucas',
+//   idade: 21,
+//    t() {
+//     return this
+//   }
+// }
+
+
+//! Argumento de Função
+////////////////////////////////
+
+
+// function sum(a,b) {
+//   console.log(arguments[0], arguments[1])
+//   console.log(a+b)
+//   return a + b
+// }
+
+
+// sum(5,4)
+
+
+
+
