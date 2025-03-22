@@ -1,0 +1,14 @@
+{
+  "name": "23-npm",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
